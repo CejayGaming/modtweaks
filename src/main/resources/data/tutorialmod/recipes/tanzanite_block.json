@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "PXP",
+    "CRC"
+  ],
+  "key": {
+    "E": {
+      "item": "betterend:eternal_crystal"
+    },
+    "P": {
+      "item": "byg:pendorite_scraps"
+    },
+    "X": {
+      "item": "betterend:enchanted_petal"
+    },
+    "C": {
+      "item": "betternether:cincinnasite_ingot"
+    },
+    "R": {
+      "item": "betternether:nether_ruby"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:tanzanite_block"
+  }
+}
